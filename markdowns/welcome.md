@@ -53,7 +53,7 @@ Broken link, spam link may decrease your website ratings, Google like search eng
 - One of the noticeable aspect is "How long the Web page has existed on web?", The age of the page is also considered while searching. People create new Web pages every day, and not all of them stick around for long, Google link search engines places more value on pages with an established history.
 below snap show you how Google locate a title in possible list
 
-![Search Engine](http://www.dotnetspider.com/attachments/Resources/45533-2319-Page-search.jpg])
+![Search Engine](http://www.dotnetspider.com/attachments/Resources/45533-2319-Page-search.jpg)
 
 Google like search engine take use of automated robots for searching like "crawlers" or "spiders", with the help of them it can reach to many billions of interconnected documents. Currently, the major engines typically interpret importance as popularity.
 The more popular a site, page or document, the more your rating is. Here in this case search engines have continued to increase users’ satisfaction by using metrics that interpret popularity.

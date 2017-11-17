@@ -1,7 +1,5 @@
 # How search engine works-SEO Tips!
 
-![SEO](markdowns\SEO.png)
-
 In this article i have explained how search engine works, How to follow search engine optiomization technique and How to make your webpages polpular.
 
 ## History

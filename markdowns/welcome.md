@@ -76,7 +76,8 @@ The more popular a site, page or document, the more your rating is. Here in this
 
 ![Search Engine](http://www.dotnetspider.com/attachments/Resources/45533-2520-Search-robot.jpg)
 
-Finally, internet is the big ocean and search engines always try to search for golden fishes in it, lets help it to make a better outcome.
+Finally, internet is a big ocean and search engines always try to search for golden fishes in it, lets help it to make a better outcome.
 
 Thanks
+
 Prasad
